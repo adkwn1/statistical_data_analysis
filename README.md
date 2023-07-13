@@ -52,3 +52,8 @@ We are provided data from the telecom operator, Megaline. The company offers its
 - numpy
 - scipy.stats
 - matplotlib.pyplot
+
+## Screenshots
+
+![839d3b69-4741-4b37-9594-95d0a1d7469b](https://github.com/adkwn1/statistical_data_analysis/assets/119823114/aa553270-954d-4abf-bbc8-5614996db7ca)
+![c5695443-1f1e-422c-8f51-7a203f50d567](https://github.com/adkwn1/statistical_data_analysis/assets/119823114/60b4c4a0-a86e-432b-a257-b9a3be70305f)
