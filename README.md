@@ -47,7 +47,7 @@ We are provided data from the telecom operator, Megaline. The company offers its
 - *usd_per_message*: price per text after exceeding the package limits
 - *usd_per_gb*: price per extra gigabyte of data after exceeding the package limits (1 GB = 1024 megabytes)
 
-## Required Libraries
+## Requirements
 - pandas
 - numpy
 - scipy.stats
